@@ -1,0 +1,17 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias (por si luego usan npm)
+node_modules/
+
+# Variables privadas (por si luego usan claves o APIs)
+.env
+
+# Logs
+*.log

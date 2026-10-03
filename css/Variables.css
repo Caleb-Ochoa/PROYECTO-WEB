@@ -1,0 +1,20 @@
+:root {
+  --verde: #167A5B;
+  --verde-oscuro: #0E5F46;
+  --verde-suave: #E3F3EC;
+  --sidebar: #16231F;
+  --sidebar-card: #21352F;
+  --texto: #16231F;
+  --texto-suave: #68766F;
+  --nav-texto: #D7DEDB;
+  --nav-icono: #AEBAB5;
+  --borde: #DDE5E1;
+  --fondo: #F4F7F6;
+  --blanco: #FFFFFF;
+  --alerta: #B7791F;
+  --alerta-suave: #FFF4D6;
+  --sombra: 0 8px 20px rgba(24, 58, 47, .05);
+  --sombra-sm: 0 6px 18px rgba(24, 58, 47, .05);
+  --fuente: 'Inter', system-ui, sans-serif;
+  --sidebar-ancho: 226px;
+}
