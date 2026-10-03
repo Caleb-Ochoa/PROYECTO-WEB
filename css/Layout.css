@@ -48,7 +48,9 @@
 .contenido {
   flex: 1; padding: 28px;
   display: flex; flex-direction: column; gap: 22px;
-  background: linear-gradient(90deg, #F6FBF8 0%, #ECF6F0 100%);
+  background:
+    url("../img/fondo-lineas.svg") no-repeat top left / 100% auto,
+    linear-gradient(90deg, #F6FBF8 0%, #ECF6F0 100%);
 }
 .encabezado { display: flex; flex-direction: column; gap: 14px; }
 .encabezado h1 { font-size: 32px; line-height: 39px; font-weight: 700; }
